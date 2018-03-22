@@ -23,6 +23,7 @@ void Mapping::update_map() {
     // ideme point_count/2 lebo v scan_array su pary [uhol vzdialenost]
     for (int i = 0; i <  10; i++) {
     }
+    // meheheheheheheheh
 }
 
 
