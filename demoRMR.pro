@@ -21,8 +21,7 @@ SOURCES += main.cpp\
 HEADERS  += mainwindow.h \
     rplidar.h \
     CKobuki.h \
-    mapping.h \
-    hehe.h
+    mapping.h
 
 FORMS    += mainwindow.ui
 
